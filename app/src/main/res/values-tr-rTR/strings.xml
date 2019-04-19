@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sayıcı</string>
+    <string name="button">Ekle</string>
+    <string name="info_text">Eklemek için sayıya tıklayınız</string>
+    <string name="share_text">Paylaşmak için tıklayın</string>
+    <string name="send_to">Sayıyı Paylaş</string>
+    <string name="share_intent_text">"Sayı: "</string>
+    <string name="save_button">Kaydet</string>
+    <string name="reset_button">Sıfırla</string>
+</resources>

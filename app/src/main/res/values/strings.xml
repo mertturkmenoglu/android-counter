@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="button">Add</string>
+    <string name="info_text">Click to number to add</string>
+    <string name="share_text">Click to share</string>
+    <string name="send_to">Share Your Count</string>
+    <string name="share_intent_text">"Count: "</string>
+    <string name="lorem_ipsum_20w" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend posuere
+        tempor. Curabitur auctor, neque quis fermentum placerat, augue tortor.
+    </string>
+    <string name="save_button">Save</string>
+    <string name="reset_button">Reset</string>
+</resources>
